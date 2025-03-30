@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="footer">
         <div className="footer__container container">
-            <h1 className="footer__title">Shaktiii  </h1>
+            <h1 className="footer__title">Kunal  </h1>
 
             <ul className="footer__list">
                 <li>
@@ -20,21 +20,21 @@ const Footer = () => {
 
             <div className="footer__social">
 
-                <a href="https://www.linkedin.com/in/dubeyshakti/" className="footer__social-link" target="_blank">
+                <a href="https://www.linkedin.com/in/kunaldrall/" className="footer__social-link" target="_blank">
                     <i class="uil uil-linkedin-alt"></i>
                 </a>
 
-                <a href="https://twitter.com/shaktidubey_" className="footer__social-link" target="_blank">
+                <a href="https://twitter.com/kunaldrall_" className="footer__social-link" target="_blank">
                     <i class="uil uil-twitter-alt"></i>
                 </a>
 
-                <a href="https://github.com/shaktiiii" className="footer__social-link" target="_blank">
+                <a href="https://github.com/kunal-drall" className="footer__social-link" target="_blank">
                     <i class="uil uil-github-alt"></i>
                 </a>
 
             </div>
 
-            <div className="footer__copy">&#169; Shakti Dubey. All rights Reserved </div>
+            <div className="footer__copy">&#169; Kunal Drall. All rights Reserved </div>
         </div>
     </footer>
   )

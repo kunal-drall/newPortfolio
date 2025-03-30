@@ -19,7 +19,7 @@ const About = () => {
 
 
         <p className="about__description">
-        I am a skilled web3 developer with experience in building decentralized applications on the Ethereum blockchain. <br />
+        I am a skilled web3 developer with experience in building decentralized applications on the Solana blockchain. <br />
         I am passionate about leveraging the power of blockchain technology to create secure and transparent solutions for a wide range of industries. <br />
         While I am busy writing smart contracts, I still take interviews in search of a great team & projects that interest me. 
         </p>

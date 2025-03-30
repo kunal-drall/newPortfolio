@@ -10,7 +10,7 @@ const BlockChain = () => {
                     <i className="bx bx-badge-check"></i>
 
                     <div>
-                        <h3 className="skills__name">Solidity</h3>
+                        <h3 className="skills__name">Rust</h3>
                         <span className="skills__level">Intermediate</span>
                     </div>
 
@@ -21,7 +21,7 @@ const BlockChain = () => {
                     <i className="bx bx-badge-check"></i>
 
                     <div>
-                        <h3 className="skills__name">HardHat</h3>
+                        <h3 className="skills__name">GoLang</h3>
                         <span className="skills__level">Basic</span>
                     </div>
 
@@ -32,7 +32,7 @@ const BlockChain = () => {
                     <i className="bx bx-badge-check"></i>
 
                     <div>
-                        <h3 className="skills__name"> Ether Js</h3>
+                        <h3 className="skills__name"> Web3 Js</h3>
                         <span className="skills__level">Intermediate</span>
                     </div>
 
@@ -45,7 +45,7 @@ const BlockChain = () => {
                     <i className="bx bx-badge-check"></i>
 
                     <div>
-                        <h3 className="skills__name">ChainLink</h3>
+                        <h3 className="skills__name">Anchor</h3>
                         <span className="skills__level">Intermediate</span>
                     </div>
 

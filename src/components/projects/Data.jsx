@@ -7,10 +7,10 @@ export const projectsData = [
   {
     id: 1,
     image: Project1,
-    title: "Buy Me A Beer",
+    title: "VoxNet",
     description:
-      'Buy Me a Beer is a satirical decentralized application (dApp) that parodies the popular crowdfunding platform "Buy Me a Coffee." Developed with Next.js, Solidity, and Thirdweb technologies, this dApp offers users the ability to support content creators or friends by virtually buying beers instead of coffees. ',
-    tags: ["Solidity", "NextJS", "Chakra UI", "Thirdweb", "Hardhat", "Ethers"],
+      'Built a decentralized platform with wallet-based sign-in, DAO governance, and creator rewards. Integrated Solana for fast and low-cost transactions, user content ownership, and token rewards. ',
+    tags: ["Solana", "NextJS", "TypeScript", "Helium", "Anchor/Rust", "web3.js"],
   },
 
   // {

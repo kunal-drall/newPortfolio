@@ -1,7 +1,7 @@
 const Data = () => {
   return (
     <div className="home__data">
-        <h1 className="home__title">Shaktii
+        <h1 className="home__title">Kunal
         {/* The svg for the hand emoji */}
         <svg
                   width="36"
@@ -54,9 +54,9 @@ const Data = () => {
         </svg>
         </h1>
         
-        <h3 className="home__subtitle">Blockchain Developer</h3>
+        <h3 className="home__subtitle">Founder/Blockchain Developer</h3>
 
-        <p className="home__description">I am a FullStack Blockchain Developer who specializes in building decentralized applications on the Ethereum blockchain.</p>
+        <p className="home__description">I am a Web3 Founder/FullStack Blockchain Developer who specializes in building decentralized applications on the Solana blockchain.</p>
 
         <a href="#contact" className="button button--flex">
             Say Hello

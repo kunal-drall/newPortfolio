@@ -13,7 +13,7 @@ const Works = () => {
                 <img className="project__img" src={image} alt={title} />
                 <div className="project__buttons">
                   <a
-                    href="https://buy-me-a-beer-eight.vercel.app/"
+                    href="https://voxnet.vercel.app/"
                     target="_blank"
                     className="project__button demo"
                   >
@@ -21,7 +21,7 @@ const Works = () => {
                     <i className="bx bx-right-arrow-alt project__button-icon"></i>
                   </a>
                   <a
-                    href="https://github.com/shaktiiii/BuyMeABeer"
+                    href="https://github.com/kunal-drall/VoxNet"
                     target="_blank"
                     className="project__button viewCode"
                   >
@@ -45,7 +45,7 @@ const Works = () => {
         }) 
       }
       <div className="flex">
-        <a href="https://github.com/shaktiiii" className="viewMore">View More</a>
+        <a href="https://github.com/kunal-drall" className="viewMore">View More</a>
       </div>
       </>
 

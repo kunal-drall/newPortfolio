@@ -32,24 +32,24 @@ const Contact = () => {
                          <i className="noShake bx bx-mail-send  contact__card-icon"></i>
                          <i className="shake bx bx-mail-send bx-tada contact__card-icon" ></i>
                          <h3 className="contact__card-title">Email</h3>
-                         <span className="contact__card-data">dubeyshakti0827@gmail.com</span>
-                         <a  href="mailto:dubeyshakti0827@gmail.com" className="contact__button">Write Me {""}<i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
+                         <span className="contact__card-data">kunaldrall29@gmail.com</span>
+                         <a  href="mailto:kunaldrall29@gmail.com" className="contact__button">Write Me {""}<i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                     </div>
                     
                     <div className="contact__card">
                          <i className="noShake bx bxl-telegram  contact__card-icon"></i>
                          <i className="shake bx bxl-telegram bx-tada contact__card-icon"></i>
                          <h3 className="contact__card-title">Telegram</h3>
-                         <span className="contact__card-data">@dubeyshakti</span>
-                         <a target="_blank" href="https://dubeyshakti.t.me" className="contact__button">Write Me {""}<i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
+                         <span className="contact__card-data">@kunaldrall</span>
+                         <a target="_blank" href="https://kunaldrall.t.me" className="contact__button">Write Me {""}<i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                     </div>
 
                     <div className="contact__card">
                          <i className="noShake bx bxl-twitter contact__card-icon"></i>
                          <i className="shake bx bxl-twitter bx-tada contact__card-icon"></i>
                          <h3 className="contact__card-title">Twitter</h3>
-                         <span className="contact__card-data">@shaktidubey_</span>
-                         <a target="_blank" href="https://twitter.com/shaktidubey_" className="contact__button">Write Me {""}<i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
+                         <span className="contact__card-data">@kunaldrall_</span>
+                         <a target="_blank" href="https://twitter.com/kunaldrall_" className="contact__button">Write Me {""}<i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                     </div>
 
                 </div>

@@ -19,7 +19,7 @@ const [activeNav, setActiveNav] = useState("#home");
   return (
     <header className="header">
         <nav className="nav container">
-            <a href="index.html" className="nav__logo">Shakti Dubey</a>
+            <a href="index.html" className="nav__logo">Kunal Drall</a>
 
             <div className={Toggle ? "nav__menu show-menu" : "nav__menu"}>
                 <ul className="nav__list grid">
