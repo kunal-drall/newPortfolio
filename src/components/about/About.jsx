@@ -25,7 +25,7 @@ const About = () => {
     <br />
     🌱 With his extensive background and dedication, Kunal is a web3 founder and Full stack/blockchain developer.<br />
     <br />
-    Overall, Kunal is a driven and dynamic individual who is passionate about the tech industry and living life to the fullest. Want to connect with him? Reach out to him via his preferred contact method. 📫 kunaldrall.at.gmail.com
+    Overall, Kunal is a driven and dynamic individual who is passionate about the tech industry and living life to the fullest. Want to connect with him? Reach out to him via his preferred contact method. 📫 kunaldrall29.at.gmail.com
 </p>
 
         <a download="" href={CV} className="button button--flex">
